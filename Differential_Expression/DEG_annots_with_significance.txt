@@ -1,0 +1,92 @@
+Gene	R16	R24	R30	L16	L24	L30	Annotation
+Ha412HOChr05g00015310	****	****	ns	****	****	ns	No TAIR Homolog
+Ha412HOChr05g00015311	ns	ns	*	ns	ns	ns	The gene encodes a cytochrome P450 enzyme, CYP82C. It is involved in the early Fe deficiency response.CYP82C4 hydroxylates fraxetin to generate sideretin (5-hydroxyfraxetin). Fraxetin and sideretin are catecholic coumarins secreted into the rhizosphere under conditions of low iron availability and help mobilize this nutrient from insoluble iron(III) pools in the soil.The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015330	*	ns	ns	****	ns	ns	P-loop containing nucleoside triphosphate hydrolases superfamily protein;(source:Araport11)
+Ha412HOChr05g00015365	ns	ns	ns	***	****	****	Encodes a protein with 4-Diphosphocytidyl-2C-methyl-D-erythritol synthase activity. The enzyme has an absolute requirement for divalent cations (Mg2+ reaches the highest catalytic activity).
+Ha412HOChr05g00015367	ns	****	****	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00015368	*	****	****	ns	ns	ns	Ankyrin repeat family protein;(source:Araport11)
+Ha412HOChr05g00015375	ns	ns	****	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00015388	*	****	****	ns	ns	ns	phosphoribosylaminoimidazole carboxylase, putative / AIR carboxylase;(source:Araport11)
+Ha412HOChr05g00015390	*	****	ns	****	***	***	alpha/beta-Hydrolases superfamily protein;(source:Araport11)
+Ha412HOChr05g00015391	**	ns	ns	*	ns	ns	ATP-dependent helicase/nuclease subunit;(source:Araport11)
+Ha412HOChr05g00015396	ns	*	***	ns	ns	*	Encodes a DNA mismatch repair homolog of human MutS gene, MSH6. MSH2 is involved in maintaining genome stability and repressing recombination of mismatched heteroduplexes.There are four MutS genes in Arabidopsis, MSH2, MSH3, MSH6, and MSH7, which all act as heterodimers and bind to 51-mer duplexes. MSH2 has different binding specificity to different mismatches in combination with MSH3, MSH6, or MSH7.
+Ha412HOChr05g00015407	****	***	***	*	****	***	Encodes a protein that enables protochlorophillide's binding to pPORA's transit sequence, regulating pPORA's translocation into the plastid stroma, and blocking movement of the translocating polypeptide chain back into the cytosol. Causes Bax mediated lethality in yeast by generating reactive oxygen species and this effect is suppressed by AtBI-1.
+Ha412HOChr05g00015412	***	****	****	ns	ns	*	Encodes a putative protease SppA (SppA).
+Ha412HOChr05g00015416	****	****	****	ns	****	****	No TAIR Homolog
+Ha412HOChr05g00015424	****	****	****	*	***	ns	squalene epoxidase 3;(source:Araport11)
+Ha412HOChr05g00015428	ns	ns	ns	*	*	ns	beta-glucosidase 45;(source:Araport11)
+Ha412HOChr05g00015439	**	****	ns	*	****	**	GF14 protein phi chain member of 14-3-3 protein family. This protein is reported to interact with the BZR1 transcription factor involved in brassinosteroid signaling and may affect the nucleocytoplasmic shuttling of BZR1 The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015441	ns	*	ns	*	****	****	Encodes a candidate G-protein Coupled Receptor that is involved in the regulation of root growth by bacterial N-acyl-homoserine lactones (AHLs) and plays a role in mediating interactions between plants and microbes.
+Ha412HOChr05g00015450	****	*	**	****	*	ns	Leucine-rich repeat protein kinase family protein;(source:Araport11)
+Ha412HOChr05g00015458	ns	*	*	****	ns	***	No TAIR Homolog
+Ha412HOChr05g00015459	ns	*	**	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00015467	*	****	****	ns	ns	ns	PPPDE putative thiol peptidase family protein;(source:Araport11)
+Ha412HOChr05g00015472	****	***	****	ns	****	****	Encodes a member of the thioredoxin family protein.  Located in the chloroplast.  Shows high activity towards the chloroplast 2-Cys peroxiredoxin A, and poor activity towards the chloroplast NADP-malate   dehydrogenase. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015474	***	ns	*	***	ns	ns	Encodes a member of the MIKC (MADS box, Keratin binding domain, and C terminal domain containing )family of transcriptional regulators. AGL65 is expressed in pollen.It forms heterodimers with other MICK family members (AGL104). Involved in late stages of pollen development and pollen tube growth.
+Ha412HOChr05g00015477	**	ns	***	ns	ns	ns	transmembrane protein;(source:Araport11)
+Ha412HOChr05g00015479	****	****	****	****	****	****	Encodes ClpB4, which belongs to the Casein lytic proteinase/heat shock protein 100 (Clp/Hsp100) family.  Targeted to the mitochondrion, also referred to as ClpB-m.  Transcripts of ClpB4 accumulate dramatically at high temperatures, suggesting that it may be involved in response to heat stress.
+Ha412HOChr05g00015491	***	ns	ns	****	****	****	Plant invertase/pectin methylesterase inhibitor superfamily protein;(source:Araport11)
+Ha412HOChr05g00015492	****	****	****	****	****	****	No TAIR Homolog
+Ha412HOChr05g00015494	ns	ns	ns	****	ns	ns	microtubule-associated futsch-like protein;(source:Araport11)
+Ha412HOChr05g00015506	****	****	****	****	****	****	Component of R gene-mediated disease resistance in Arabidopsis thaliana with homology to eukaryotic lipases.
+Ha412HOChr05g00015508	**	****	****	ns	ns	ns	Component of R gene-mediated disease resistance in Arabidopsis thaliana with homology to eukaryotic lipases.
+Ha412HOChr05g00015512	ns	ns	ns	ns	**	ns	anaphase-promoting complex or cyclosome subunit
+Ha412HOChr05g00015519	**	**	ns	**	****	**	Xanthine/uracil permease family protein;(source:Araport11)
+Ha412HOChr05g00015520	****	****	****	****	****	****	No TAIR Homolog
+Ha412HOChr05g00015521	*	ns	****	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00015525	ns	****	ns	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00015527	****	ns	ns	****	ns	ns	TRP-like ion channel protein (Protein of unknown function, DUF599);(source:Araport11)
+Ha412HOChr05g00015539	****	ns	ns	****	ns	ns	Encodes a member of the lambda family of glutathione transferases. It has thiol transferase activity and self S-glutathionylation activity in vitro.
+Ha412HOChr05g00015543	ns	ns	ns	ns	****	****	kinetochore protein;(source:Araport11)
+Ha412HOChr05g00015562	ns	****	ns	****	ns	ns	Concanavalin A-like lectin protein kinase family protein;(source:Araport11)
+Ha412HOChr05g00015577	ns	ns	***	ns	ns	ns	Wound-responsive gene 3 (WR3).  Encodes a high-affinity nitrate transporter. Up-regulated by nitrate. Involved in jasmonic acid-independent wound signal transduction.
+Ha412HOChr05g00015580	ns	ns	****	ns	ns	ns	Encodes a protein localized to phloem filaments that is required for phloem filament formation. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015588	ns	****	ns	**	ns	*	GDSL-motif  esterase/acyltransferase/lipase. Enzyme group with broad substrate specificity that may catalyze acyltransfer or hydrolase reactions with lipid and non-lipid substrates.
+Ha412HOChr05g00015589	****	****	ns	ns	****	ns	No TAIR Homolog
+Ha412HOChr05g00015592	ns	****	ns	ns	ns	ns	GDSL-motif  esterase/acyltransferase/lipase. Enzyme group with broad substrate specificity that may catalyze acyltransfer or hydrolase reactions with lipid and non-lipid substrates.
+Ha412HOChr05g00015598	**	*	ns	ns	ns	ns	Encodes a mitogen-activated kinase whose mRNA levels increase in response to touch, cold, salinity stress and chitin oligomers.Also functions in ovule development. Heterozygous MPK3 mutants in a homozygous MPK6 background are female sterile due to defects in integument development. MPK3 can be dephosphorylated by MKP2 in vitro. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015606	ns	****	ns	ns	ns	ns	Encodes a protein with malate synthase activity.
+Ha412HOChr05g00015612	*	****	ns	**	****	ns	F-box/RNI-like superfamily protein;(source:Araport11)
+Ha412HOChr05g00015620	*	**	****	ns	ns	ns	secE/sec61-gamma protein transport protein;(source:Araport11)
+Ha412HOChr05g00015620	*	**	****	ns	ns	ns	secE/sec61-gamma protein transport protein;(source:Araport11)
+Ha412HOChr05g00015633	****	ns	ns	ns	ns	ns	Heavy metal transport/detoxification superfamily protein;(source:Araport11)
+Ha412HOChr05g00015643	**	***	**	ns	ns	ns	MORC7 is a member of a family of  GHKL ATPases. It is localized in the nuceloplasm and adjacent to chromocenters. Along with MORC4, it appears to repress the expression of genes involved in defense against pathogens.
+Ha412HOChr05g00015647	*	ns	ns	ns	***	ns	transmembrane protein;(source:Araport11)
+Ha412HOChr05g00015652	ns	*	*	ns	ns	ns	ATP/DNA binding protein;(source:Araport11)
+Ha412HOChr05g00015658	ns	*	ns	ns	ns	ns	ATP/DNA binding protein;(source:Araport11)
+Ha412HOChr05g00015659	ns	ns	*	**	**	ns	Protein kinase superfamily protein;(source:Araport11)
+Ha412HOChr05g00015662	****	****	****	****	****	****	No TAIR Homolog
+Ha412HOChr05g00015663	****	****	****	****	****	****	No TAIR Homolog
+Ha412HOChr05g00015664	****	ns	*	ns	ns	ns	At5g48930 has been shown to encode for the hydroxycinnamoyl-Coenzyme A shikimate/quinate hydroxycinnamoyltransferase (HCT) both synthesizing and catabolizing the hydroxycinnamoylesters (coumaroyl/caffeoyl shikimate and quinate) involved in the phenylpropanoid pathway.  Influence on the accumulation of flavonoids which in turn inhibit auxin transport and reduce plant growth. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015675	ns	*	ns	ns	ns	ns	RHD2 (along with RHD3 and RHD4) is required for normal root hair elongation. Has NADPH oxidase activity. Gene is expressed in the elongation and differention zone in trichoblasts and elongating root hairs. RDH2 is localized to the growing tips of root hair cells. It is required for the production of reactive oxygen species in response to extracellular ATP stimulus. The increase in ROS production stimulates Ca2+ influx.
+Ha412HOChr05g00015676	ns	ns	**	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00015684	**	ns	ns	*	***	***	ephrin-A3 protein;(source:Araport11)
+Ha412HOChr05g00015685	***	ns	*	****	ns	****	At5g48930 has been shown to encode for the hydroxycinnamoyl-Coenzyme A shikimate/quinate hydroxycinnamoyltransferase (HCT) both synthesizing and catabolizing the hydroxycinnamoylesters (coumaroyl/caffeoyl shikimate and quinate) involved in the phenylpropanoid pathway.  Influence on the accumulation of flavonoids which in turn inhibit auxin transport and reduce plant growth. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015687	ns	ns	ns	***	****	ns	At5g48930 has been shown to encode for the hydroxycinnamoyl-Coenzyme A shikimate/quinate hydroxycinnamoyltransferase (HCT) both synthesizing and catabolizing the hydroxycinnamoylesters (coumaroyl/caffeoyl shikimate and quinate) involved in the phenylpropanoid pathway.  Influence on the accumulation of flavonoids which in turn inhibit auxin transport and reduce plant growth. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015688	ns	ns	ns	ns	ns	*	At5g48930 has been shown to encode for the hydroxycinnamoyl-Coenzyme A shikimate/quinate hydroxycinnamoyltransferase (HCT) both synthesizing and catabolizing the hydroxycinnamoylesters (coumaroyl/caffeoyl shikimate and quinate) involved in the phenylpropanoid pathway.  Influence on the accumulation of flavonoids which in turn inhibit auxin transport and reduce plant growth. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015693	ns	ns	****	ns	****	****	At5g48930 has been shown to encode for the hydroxycinnamoyl-Coenzyme A shikimate/quinate hydroxycinnamoyltransferase (HCT) both synthesizing and catabolizing the hydroxycinnamoylesters (coumaroyl/caffeoyl shikimate and quinate) involved in the phenylpropanoid pathway.  Influence on the accumulation of flavonoids which in turn inhibit auxin transport and reduce plant growth. The mRNA is cell-to-cell mobile.
+Ha412HOChr05g00015697	ns	ns	****	*	ns	ns	Encodes an endoplasmic reticulum protein SDF2 (stromal-derived factor-2).  Forms a complex SDF2-ERdj3B-BiP that is required for the proper accumulation of the surface-exposed leucine-rich repeat receptor kinases EFR.  EFR is involved in PAMP (pathogen associated molecular patterns) triggered immunity.
+Ha412HOChr05g00015700	ns	ns	*	**	*	ns	Encodes a protein with boron transporter activity. It helps to preferentially direct boron to young developing tissues in the shoot, such as immature leaves, under low boron conditions. This boron channel appears to be impermeable to water, unlike the closely related NIP5;1 boron transporter. This protein also allows the transport of glycerol, urea, and formimide but not larger uncharged solutes such as arabitol and sucrose when it is expressed heterologously.
+Ha412HOChr05g00015707	****	***	*	ns	ns	ns	PPPDE putative thiol peptidase family protein;(source:Araport11)
+Ha412HOChr05g00015711	****	****	****	****	****	****	Major facilitator superfamily protein;(source:Araport11)
+Ha412HOChr05g00015712	ns	*	*	ns	**	ns	Sterile alpha motif (SAM) domain-containing protein;(source:Araport11)
+Ha412HOChr05g00015717	****	****	****	****	ns	ns	CBS domain-containing protein;(source:Araport11)
+Ha412HOChr05g00015732	**	****	*	**	****	****	Component of autophagy conjugation pathway. Required for proper senescence. Contributes to plant basal immunity towards fungal infection.
+Ha412HOChr05g00015733	****	****	****	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00015739	ns	ns	ns	ns	ns	*	Plant transposase (Ptta/En/Spm family);(source:Araport11)
+Ha412HOChr05g00015754	ns	ns	ns	**	**	*	Developmental regulator, ULTRAPETALA;(source:Araport11)
+Ha412HOChr05g00015755	***	****	*	****	**	***	No TAIR Homolog
+Ha412HOChr05g00015757	****	****	**	ns	ns	****	No TAIR Homolog
+Ha412HOChr05g00051132	ns	****	ns	****	****	****	No TAIR Homolog
+Ha412HOChr05g00051135	****	****	***	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00051136	****	ns	*	***	ns	ns	pfkB-like carbohydrate kinase family protein;(source:Araport11)
+Ha412HOChr05g00051138	ns	ns	ns	ns	*	*	No TAIR Homolog
+Ha412HOChr05g00051142	ns	****	ns	ns	ns	ns	NAD(P)-linked oxidoreductase superfamily protein;(source:Araport11)
+Ha412HOChr05g00051144	*	ns	ns	****	ns	ns	No TAIR Homolog
+Ha412HOChr05g00051155	ns	ns	**	****	ns	ns	No TAIR Homolog
+Ha412HOChr05g00051156	**	**	*	ns	ns	ns	No TAIR Homolog
+Ha412HOChr05g00051157	****	****	****	ns	ns	ns	alpha/beta-Hydrolases superfamily protein;(source:Araport11)
+Ha412HOChr05g00051162	ns	ns	ns	****	ns	ns	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain-containing protein;(source:Araport11)
+Ha412HOChr05g00051167	**	*	ns	ns	ns	ns	actin binding protein;(source:Araport11)
+Ha412HOChr05g00051179	****	****	ns	ns	ns	ns	hypothetical protein;(source:Araport11)
+Ha412HOChr05g00051182	****	****	****	ns	****	ns	Amidase family protein;(source:Araport11)
